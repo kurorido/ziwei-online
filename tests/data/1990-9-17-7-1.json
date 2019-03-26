@@ -1,0 +1,135 @@
+{
+    "temples": [
+        {
+            "name": "父母宮",
+            "time": "巳",
+            "primary_stars": [
+                "天機"
+            ],
+            "secondary_stars": [],
+            "bad_stars": [
+                "火星"
+            ]
+        },
+        {
+            "name": "福德宮",
+            "time": "午",
+            "primary_stars": [
+                "紫微"
+            ],
+            "secondary_stars": [
+                "文昌"
+            ],
+            "bad_stars": []
+        },
+        {
+            "name": "田宅宮",
+            "time": "未",
+            "primary_stars": [],
+            "secondary_stars": [
+                "天鉞"
+            ],
+            "bad_stars": [
+                "陀羅",
+                "鈴星",
+                "地空"
+            ]
+        },
+        {
+            "name": "事業宮",
+            "time": "申",
+            "primary_stars": [
+                "破軍"
+            ],
+            "secondary_stars": [
+                "文曲",
+                "祿存"
+            ],
+            "bad_stars": []
+        },
+        {
+            "name": "交友宮",
+            "time": "酉",
+            "primary_stars": [],
+            "secondary_stars": [],
+            "bad_stars": [
+                "擎羊"
+            ]
+        },
+        {
+            "name": "遷移宮",
+            "time": "戌",
+            "primary_stars": [
+                "廉貞",
+                "天府"
+            ],
+            "secondary_stars": [
+                "左輔"
+            ],
+            "bad_stars": []
+        },
+        {
+            "name": "疾厄宮",
+            "time": "亥",
+            "primary_stars": [
+                "太陰"
+            ],
+            "secondary_stars": [],
+            "bad_stars": []
+        },
+        {
+            "name": "財帛宮",
+            "time": "子",
+            "primary_stars": [
+                "貪狼"
+            ],
+            "secondary_stars": [],
+            "bad_stars": []
+        },
+        {
+            "name": "子女宮",
+            "time": "丑",
+            "primary_stars": [
+                "天同",
+                "巨門"
+            ],
+            "secondary_stars": [
+                "天魁"
+            ],
+            "bad_stars": []
+        },
+        {
+            "name": "夫妻宮",
+            "time": "寅",
+            "primary_stars": [
+                "武曲",
+                "天相"
+            ],
+            "secondary_stars": [],
+            "bad_stars": []
+        },
+        {
+            "name": "兄弟宮",
+            "time": "卯",
+            "primary_stars": [
+                "太陽",
+                "天梁"
+            ],
+            "secondary_stars": [],
+            "bad_stars": [
+                "地劫"
+            ]
+        },
+        {
+            "name": "命宮",
+            "time": "辰",
+            "primary_stars": [
+                "七殺"
+            ],
+            "secondary_stars": [
+                "右弼"
+            ],
+            "bad_stars": []
+        }
+    ]
+}
